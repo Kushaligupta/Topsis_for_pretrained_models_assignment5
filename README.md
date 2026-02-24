@@ -1,6 +1,6 @@
 # TOPSIS-Based Selection of Best Pre-trained Model for Text Sentence Similarity
 
-#### Author: Hitesh Yadav | Roll No. 102317248 | Predictive Analytics Assignment-5
+#### Author: Kushali Gupta | Roll No. 102317148 | Predictive Analytics Assignment-5
 
 ---
 
